@@ -7,4 +7,4 @@ You have to have Visual Studio and Microsoft SQL Server Management Studio in ord
 
 You are strongly adviced to have the knowlege about C# and SQL.
 
-Everything will be explained in the directories.
+Everything will be explained one by one in the directories.
