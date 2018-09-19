@@ -1,5 +1,5 @@
 # LibraryAutomationProject
-This is C# and MSSQL based application using Visual Studio and .Net Framework for advanced library functions.
+This is C# and MSSQL based application using Visual Studio for advanced library functions.
 
 The aim of this project is to generate some kind of virtual libray environment. 
 
